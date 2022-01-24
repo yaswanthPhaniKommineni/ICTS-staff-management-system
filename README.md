@@ -1,3 +1,3 @@
 # ICTS-staff-management-system
 
-##Please check documentation for detailed information about the project
+Please check documentation for detailed information about the project
